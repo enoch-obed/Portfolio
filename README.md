@@ -1,5 +1,5 @@
 ## Portfolio
-<h1 align="center">👋🏽 Hi, I'm Enoch — Cybersecurity Learner, Backend Dev & Mobile App Builder</h1>
+<h1 align="center">👋🏽 Hi, I'm Enoch — Cybersecurity Professional, Backend Dev & Mobile App Builder</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Command--Line-informational?style=flat&logo=linux&color=yellow" />
@@ -34,13 +34,7 @@
 - Inserted/tested alerts and parsed logs using `JOIN`, `LIKE`, `WHERE`, and aggregate functions
 - Explained real-world benefits of SQL for security operations
 
-<img src="screenshots/sql-log-query-1.png" width="700" alt="SQL log analysis">
-<img src="screenshots/sql-log-query-2.png" width="700" alt="Filtered login attempts by country">
-<img src="screenshots/sql-log-query-3.png" width="700" alt="Suspicious login detection via SQL">
-<img src="screenshots/sql-log-query-4.png" width="700" alt="Order by login_time in SQL query">
-<img src="screenshots/sql-log-query-5.png" width="700" alt="Log event correlation using SQL">
 
----
 
 ### 🔐 Access Controls & USB Threat Simulations
 - Investigated shared access, lack of revocation, and audit failures in small businesses
@@ -54,7 +48,6 @@
 - Used `openssl aes-256-cbc` to reverse encrypted files
 - Learned symmetric vs asymmetric encryption and key-based file recovery
 
-<img src="screenshots/encryption-lab.png" width="700" alt="Linux Caesar cipher and file decryption using OpenSSL">
 
 ---
 
@@ -68,6 +61,41 @@
 
 ### Projects Built
 - **SecureNotes (Swift)** — Encrypted mobile note-taking app
+- **ConnectApp (Swift and Firebase Backend Tools)** - 
+⸻
+
+🔐 Login System
+	•	Clean and simple login screen using SwiftUI components.
+	•	Secure input for email and password.
+	•	Conditional navigation to authenticated views using state management.
+
+👤 Profile View
+	•	Personalized welcome message (e.g., “Hello Enoch, how is your day going?”).
+	•	Clean layout with centered content using VStack and Spacer.
+
+🧠 Personal AI Assistant
+	•	Custom AI integration offering natural language interaction.
+	•	Provides reminders, smart suggestions, task planning, and conversational responses tailored to the user’s context.
+
+🚗 Dasher
+	•	A built-in delivery assistant (e.g., for errands, packages, or food).
+	•	Real-time order tracking and driver status updates.
+	•	UI support for choosing delivery types and destinations.
+
+🍽️ Dining
+	•	Curated dining recommendations based on location, time of day, and user preferences.
+	•	Reservation integration and delivery/pickup options.
+	•	Support for browsing menus and saving favorites.
+
+🗂️ Dashboard
+	•	Centralized overview of tasks, appointments, and messages.
+	•	Live data components showing AI updates, deliveries, and alerts in one view.
+	•	Dynamic layout for scalability across devices.
+
+📱 Modern SwiftUI Architecture
+	•	Fully component-based design using SwiftUI’s View structs.
+	•	Local state management via @State, @Binding, and environment objects.
+	•	Smooth animations and transitions for a responsive feel.
 - **TaskAPI (Java)** — RESTful API with user auth & CRUD
 - **LogQuery (Python + SQL)** — Tool for parsing log files for suspicious activity
 - **Linux Permissions Lab** — File security and system hardening practice
@@ -98,8 +126,8 @@
   - Threat detection
   - DevSecOps
   - Secure backend/API development
-- 🔗 [LinkedIn](#) ← drop your link here
-- 📁 Explore my labs & writeups in the repos below 👇
+- 🔗 [LinkedIn](#) www.linkedin.com/in/enoch-ebbah-4a7603342-
+- 📁 Explore my labs & writeups in the files attached 👇
 
 ---
 
