@@ -1,4 +1,4 @@
-# Portfolio
+## Portfolio
 <h1 align="center">👋🏽 Hi, I'm Enoch — Cybersecurity Learner, Backend Dev & Mobile App Builder</h1>
 
 <p align="center">
@@ -26,21 +26,35 @@
 - Filtered security events by **country and IP range**
 - Verified logs and files with **hashing (SHA256)** to detect tampering/malware
 
+---
+
 ### 🧮 SQL for Threat Hunting
 - Filtered and joined databases to correlate alerts with user behavior
 - Queried for suspicious activity from specific geolocations
 - Inserted/tested alerts and parsed logs using `JOIN`, `LIKE`, `WHERE`, and aggregate functions
 - Explained real-world benefits of SQL for security operations
 
+<img src="screenshots/sql-log-query-1.png" width="700" alt="SQL log analysis">
+<img src="screenshots/sql-log-query-2.png" width="700" alt="Filtered login attempts by country">
+<img src="screenshots/sql-log-query-3.png" width="700" alt="Suspicious login detection via SQL">
+<img src="screenshots/sql-log-query-4.png" width="700" alt="Order by login_time in SQL query">
+<img src="screenshots/sql-log-query-5.png" width="700" alt="Log event correlation using SQL">
+
+---
+
 ### 🔐 Access Controls & USB Threat Simulations
 - Investigated shared access, lack of revocation, and audit failures in small businesses
 - Simulated USB baiting attack in a **virtualized lab** to test safe device isolation
 - Recommended **MFA, RBAC, zero trust**, and cloud ACL improvements
 
+---
+
 ### 🧠 Encryption & Decryption
 - Decrypted messages with **Caesar cipher** using `tr` and Linux tools
 - Used `openssl aes-256-cbc` to reverse encrypted files
 - Learned symmetric vs asymmetric encryption and key-based file recovery
+
+<img src="screenshots/encryption-lab.png" width="700" alt="Linux Caesar cipher and file decryption using OpenSSL">
 
 ---
 
@@ -90,25 +104,3 @@
 ---
 
 _“Learning fast. Securing smarter. Building real.”_
----
-
-### 🧾 My GitHub Portfolio
-> I share write-ups, labs, and practice projects that demonstrate my growing expertise in cybersecurity — focusing on real tools, real commands, and real scenarios.
-
----
-
-### 🌱 Currently Learning
-- ✅ Linux security hardening
-- ✅ Python for automation
-- ✅ Threat detection in cloud platforms (e.g., Google Cloud)
-
----
-
-### 🤝 Connect With Me
-- 💼 Open to internships, mentorship, or junior cybersecurity roles
-- 🔗 [LinkedIn](#) (add your link here!)
-- SOC analysis
-- Cyber defense
-- Linux system administration
-
-📫 Let’s connect! Reach out via my [LinkedIn](#) or check out my labs below.
